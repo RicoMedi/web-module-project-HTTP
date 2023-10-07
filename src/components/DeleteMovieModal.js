@@ -1,6 +1,7 @@
 import React from 'react';
 
 const DeleteMovieModal = () => {
+
   return (<div id="deleteEmployeeModal">
     <div className="modal-dialog">
       <div className="modal-content">
